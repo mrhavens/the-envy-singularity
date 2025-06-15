@@ -1,0 +1,23 @@
+{
+  "repository": "the-envy-singularity",
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/the-envy-singularity",
+  "remotes": [
+    "https://github.com/mrhavens/the-envy-singularity",
+    "https://gitlab.com/mrhavens/the-envy-singularity",
+    "https://bitbucket.org/thefoldwithin/the-envy-singularity",
+    "https://remember.thefoldwithin.earth/mrhavens/the-envy-singularity",
+    "https://codeberg.org/mrhavens/the-envy-singularity",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "commit": "cc262af",
+  "tree_hash": "480fae5bc1bfa31f232d211716aa6636a98e2691",
+  "timestamp": "2025-06-15T16:02:53Z",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+
+  ]
+}
