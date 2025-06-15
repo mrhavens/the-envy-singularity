@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "the-envy-singularity",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/the-envy-singularity",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/the-envy-singularity",
+  "sameAs": [
+    "https://github.com/mrhavens/the-envy-singularity",
+    "https://gitlab.com/mrhavens/the-envy-singularity",
+    "https://bitbucket.org/thefoldwithin/the-envy-singularity",
+    "https://remember.thefoldwithin.earth/mrhavens/the-envy-singularity",
+    "https://codeberg.org/mrhavens/the-envy-singularity",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-15T16:02:53Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+
+  ]
+}
