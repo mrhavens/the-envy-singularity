@@ -2,28 +2,28 @@
 
 - **Project Name**: `the-envy-singularity`
 - **Radicle URN**: `rad://z3HePpdrXHDSNe8tBhCHLVUnhLtre`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/fc8d7786e5d21d8da9e8cfb618294074785e69b1](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/fc8d7786e5d21d8da9e8cfb618294074785e69b1)
-- **Local Repo Path**: `/mnt/h/fieldcraft/the-envy-singularity`
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/313ed331c1ff2501c86cebb1540e0e657a0a45e9](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/313ed331c1ff2501c86cebb1540e0e657a0a45e9)
+- **Local Repo Path**: `/mnt/h/fieldcraft/joel-johnson/the-envious/the-envy-singularity`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-15 11:05:16`
+- **Repo Created**: `2025-06-15 20:23:34`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-15 11:05:16`
-- **Last Commit SHA**: `fc8d7786e5d21d8da9e8cfb618294074785e69b1`
-- **Last Commit Message**: `Post-Local sync at 2025-06-15T16:02:53Z`
+- **This Commit Timestamp**: `2025-06-15 20:23:34`
+- **Last Commit SHA**: `313ed331c1ff2501c86cebb1540e0e657a0a45e9`
+- **Last Commit Message**: `Post-Local sync at 2025-06-16T01:23:03Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Sun Jun 15 11:05:14 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/fc8d7786e5d21d8da9e8cfb618294074785e69b1](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/fc8d7786e5d21d8da9e8cfb618294074785e69b1)
+- **Commit Date**: `Sun Jun 15 20:23:13 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/313ed331c1ff2501c86cebb1540e0e657a0a45e9](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3HePpdrXHDSNe8tBhCHLVUnhLtre/tree/313ed331c1ff2501c86cebb1540e0e657a0a45e9)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `58`
-- **Tracked Files**: `36`
+- **Total Commits**: `83`
+- **Tracked Files**: `40`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -47,7 +47,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 37 minutes`
+- **System Uptime**: `up 9 hours, 49 minutes`
 - **MAC Address**: `00:15:5d:44:48:46`
 - **Local IP**: `172.28.107.95`
 - **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
